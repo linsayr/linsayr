@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Linsay — a data-driven thinker who loves solving real-world problems with Python and ML. 👋</h1>
+<p align="center">
+  Data-Driven Thinker • Aspiring Data Scientist Bootcamp Grad from TripleTen • QA Tester Jr • Tech Enthusiast 💻📊  
+  <br>
+  <a href="https://linkedin.com/in/linsayrodriguez92"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:linsayrodriguez92@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
+</p>
 
 <!--
 **linsayr/linsayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
