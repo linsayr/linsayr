@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/linsayr/linsayr/main/Github.png])" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/linsayr/linsayr/main/Github.png" alt="Banner" />
 </p>
-
 
 <h1 align="center">Hi, I'm Linsay — a data-driven thinker who loves solving real-world problems with Python and ML. 👋</h1>
 <p align="center">
