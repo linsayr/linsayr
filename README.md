@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githublinsayr.com/linsayr/linsayr/main/Github.png" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi, I'm Linsay — a data-driven thinker who loves solving real-world problems with Python and ML. 👋</h1>
 <p align="center">
   Data-Driven Thinker • Aspiring Data Scientist Bootcamp Grad from TripleTen • QA Tester Jr • Tech Enthusiast 💻📊  
