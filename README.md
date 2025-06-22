@@ -24,3 +24,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">📁 Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://github.com/linsayr/linsayr/blob/21533d0a941792edadae75ce68616a509f84c94c/Project1.png?raw=true" width="100%" alt="Instacart Project" />
+        <h4>Instacart Customer Behavior</h4>
+        <p>Exploratory data analysis and visualizations to uncover shopping trends.</p>
+        <a href="https://github.com/linsayr/instacart-customer-analysis" target="_blank">🔗 Source Code</a>
+      </td>
+      <td align="center" width="300">
+        <img src="https://github.com/linsayr/linsayr/blob/21533d0a941792edadae75ce68616a509f84c94c/project2.png?raw=true" width="100%" alt="Taxi Project" />
+        <h4>Chicago Taxi Trips</h4>
+        <p>Data exploration and hypothesis testing using public transport datasets.</p>
+        <a href="https://github.com/linsayr/chicago-taxi-analysis" target="_blank">🔗 Source Code</a>
+      </td>
+      <td align="center" width="300">
+        <img src="https://github.com/linsayr/linsayr/blob/21533d0a941792edadae75ce68616a509f84c94c/Project3.png?raw=true" width="100%" alt="Megaline Project" />
+        <h4>Megaline Plan Classifier</h4>
+        <p>Machine learning model to predict optimal mobile plans based on user behavior.</p>
+        <a href="https://github.com/linsayr/megaline-plan-classifier" target="_blank">🔗 Source Code</a>
+      </td>
+    </tr>
+  </table>
+</div>
