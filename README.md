@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   </table>
 </div>
 
+<h2 align="center"> 📊 My Stats </h2>
 ## 📊 My Stats
 
 <p align="center">
