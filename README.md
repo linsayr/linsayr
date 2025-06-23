@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 </div>
 
 <h2 align="center"> 📊 My Stats </h2>
-## 📊 My Stats
-
 <p align="center">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=linsayr&show_icons=true&theme=radical" alt="Linsay's GitHub stats" />
 </p>
