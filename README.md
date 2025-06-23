@@ -51,5 +51,8 @@ Here are some ideas to get you started:
   </table>
 </div>
 
-## 📊 My stats
-<img align="center" width="600" alt="Data" src="general.svg">
+## 📊 My Stats
+
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=linsayr&show_icons=true&theme=radical" alt="Linsay's GitHub stats" />
+</p>
