@@ -50,3 +50,6 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
+
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
