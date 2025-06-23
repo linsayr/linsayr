@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center"> 🛠️ Technologies </h2>
-
+<div align="center">
 <table>
   <tr>
     <td><b>Languages & Libraries</b></td>
@@ -93,3 +93,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+</div>
