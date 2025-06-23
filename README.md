@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/linsayr/linsayr/blob/21533d0a941792edadae75ce68616a509f84c94c/Project3.png?raw=true" width="100%" alt="Megaline Project" />
         <h4>Megaline Plan Classifier</h4>
         <p>Machine learning model to predict optimal mobile plans based on user behavior.</p>
-        <a href="https://github.com/linsayr/megaline-plan-classifier" target="_blank">🔗 Source Code</a>
+        <a href="https://github.com/linsayr/megaline-plan-classifier.git" target="_blank">🔗 Source Code</a>
       </td>
     </tr>
   </table>
